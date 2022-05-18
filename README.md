@@ -1,6 +1,6 @@
 # Title
 
-[![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Frick-torrellas.github.io%2Ftemplate-main%2F)](https://rick-torrellas.github.io/template-main/) [![Website](https://img.shields.io/website?label=repo&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2FRick-torrellas%2Ftemplate-main)](https://github.com/Rick-torrellas/template-main)
+[![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Frick-torrellas.github.io%2Ftemplate-main%2F)](https://rick-torrellas.github.io/template-main/) ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/rick-torrellas/components-svelte?style=plastic) ![GitHub](https://img.shields.io/github/license/rick-torrellas/template-app-vanilla-a?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/rick-torrellas/components-svelte?style=plastic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rick-torrellas/book) ![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/rick-torrellas/components-svelte)
 
 <img src="" alt="title" width="20%">
 
